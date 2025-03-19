@@ -1,0 +1,3 @@
+﻿  test_3_19.c
+E:\Code\project_1\test_3_19.c(400,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  project_1.vcxproj -> E:\Code\project_1\x64\Debug\project_1.exe
