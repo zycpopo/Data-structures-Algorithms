@@ -1,0 +1,5 @@
+﻿  test.c
+E:\Code\Data structures-Algorithms\hoemwork\test.c(12,2): warning C4013: “QuickSort”未定义；假设外部返回 int
+  work.c
+  正在生成代码...
+  hoemwork.vcxproj -> E:\Code\Data structures-Algorithms\hoemwork\x64\Debug\hoemwork.exe
