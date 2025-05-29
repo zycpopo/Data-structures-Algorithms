@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Data structures-Algorithms\\Sort_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|E:\\Code\\Data structures-Algorithms\\Sort_3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|solutionrelative:sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDAA8F6A-F72B-49D5-931E-B9E73ADDB5B1}|Sort_3.vcxproj|solutionrelative:sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sort.h",
+              "DocumentMoniker": "E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.h",
+              "RelativeDocumentMoniker": "sort.h",
+              "ToolTip": "E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.h",
+              "RelativeToolTip": "sort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T14:53:16.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sort.cpp",
+              "DocumentMoniker": "E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.cpp",
+              "RelativeDocumentMoniker": "sort.cpp",
+              "ToolTip": "E:\\Code\\Data structures-Algorithms\\Sort_3\\sort.cpp",
+              "RelativeToolTip": "sort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T14:51:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\Code\\Data structures-Algorithms\\Sort_3\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "E:\\Code\\Data structures-Algorithms\\Sort_3\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T14:53:19.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
