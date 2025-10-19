@@ -1,5 +1,5 @@
-#include<stdio.h>
-
+#include <stdio.h>
+#include <locale.h>
 typedef struct 
 {
     int value;
@@ -101,9 +101,9 @@ void input(Matrix *m)
     m->data[0].col = m->cols;
     m->data[0].value = m->nums;
     
-    printf("请依次输入%d个非零元素的行、列、值:\n", m->nums);
     for(int i = 1; i <= m->nums; i++)
     {
+        printf("请输入第%d个非零元素的行、列、值:\n", i);
         scanf("%d%d%d", &m->data[i].row, &m->data[i].col, &m->data[i].value);
     }
 }
@@ -132,6 +132,8 @@ void output(Matrix m)
 
 int main()
 {
+    setlocale(LC_ALL, "zh_CN.UTF-8");
+
     Matrix x, y, o, s;
     
     input(&x);
