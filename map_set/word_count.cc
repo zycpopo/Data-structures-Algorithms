@@ -6,10 +6,12 @@
 #include <algorithm>
 #include <sstream>
 
+using namespace std;
+
 int main()
 {
   string line;
-  getline(std::cin,line);
+  getline(cin,line);
 
   map<string,int> wordCount;
   string word="";
@@ -24,7 +26,7 @@ int main()
     {
       if(!word.empty())
       {
-        wc[word]++;
+        wordCount[word]++;
         word="";
       }
     }
